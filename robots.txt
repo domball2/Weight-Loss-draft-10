@@ -3,6 +3,7 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://mycalories.fitness/sitemap.xml
 # Block common non-public folders (if they exist)
 Disallow: /cgi-bin/
 Disallow: /tmp/
