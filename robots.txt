@@ -1,0 +1,13 @@
+# robots.txt for mycalories.fitness
+
+User-agent: *
+Allow: /
+
+# Block common non-public folders (if they exist)
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://mycalories.fitness/sitemap.xml
